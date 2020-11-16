@@ -1,0 +1,17 @@
+﻿@model Usuario
+
+@{ ViewData["Title"] = "Cadastro de Aluno"; }
+
+<h1>Cadastro de Usuario</h1>
+
+<mensagem mensagem="@TempData["msg"]"></mensagem>
+
+<form asp-action="cadastrar">
+
+    <partial name="_Formulario" />
+
+    <input type="submit" value="Cadastrar" class="btn btn-primary" />
+
+</form>
+
+

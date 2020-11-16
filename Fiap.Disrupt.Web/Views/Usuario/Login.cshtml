@@ -1,0 +1,33 @@
+﻿@model Usuario
+
+@{ ViewData["Title"] = "Login"; }
+<div class="container text-center">
+    <h1 class="text-center">Cint.IA</h1>
+
+    <img src="~/img/cint.ia.png" class="img-fluid" width="250" height="auto"/>
+</div>
+
+<div class="container mt-3 text-center">
+    <mensagem mensagem="@TempData["msg"]"></mensagem>
+</div>
+
+
+
+<div class="container text-center">
+    <form asp-action="login">
+
+        <label asp-for="Email" class="mt-2"></label>
+        <input asp-for="Email" class="form-control mt-1" />
+        <label asp-for="Senha" class="mt-2"></label>
+        <input asp-for="Senha" class="form-control mt-1" />
+
+        <input type="submit" value="Entrar" class="btn btn-primary btn-group-lg mt-2 text-center" />
+
+    </form>
+</div>
+
+<div class="container text-center">
+    <a asp-action="Cadastrar" class="text-danger mt-2">Cadastre-se</a>
+</div>
+
+

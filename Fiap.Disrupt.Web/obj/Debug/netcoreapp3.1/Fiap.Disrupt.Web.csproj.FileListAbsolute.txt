@@ -1,0 +1,312 @@
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.exe
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csprojAssemblyReference.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.AssemblyInfoInputs.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.AssemblyInfo.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorAssemblyInfo.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorAssemblyInfo.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.TagHelpers.input.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.TagHelpers.output.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorCoreGenerate.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\staticwebassets\Fiap.Disrupt.Web.StaticWebAssets.Manifest.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\staticwebassets\Fiap.Disrupt.Web.StaticWebAssets.xml
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csproj.CopyComplete
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.deps.json
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.runtimeconfig.json
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.runtimeconfig.dev.json
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.Views.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.Views.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.Views.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.pdb
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.genruntimeconfig.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csproj.CoreCompileInputs.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_Formulario.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Caue\Desktop\Fiap\Enterprise 2sem\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Watson.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.exe
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.deps.json
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.runtimeconfig.json
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.runtimeconfig.dev.json
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.Views.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Fiap.Disrupt.Web.Views.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csprojAssemblyReference.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.AssemblyInfoInputs.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.AssemblyInfo.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csproj.CoreCompileInputs.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorAssemblyInfo.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorAssemblyInfo.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.TagHelpers.input.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.TagHelpers.output.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorCoreGenerate.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Watson.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_Formulario.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorTargetAssemblyInfo.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorTargetAssemblyInfo.cs
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.Views.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csproj.CopyComplete
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\staticwebassets\Fiap.Disrupt.Web.StaticWebAssets.Manifest.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\staticwebassets\Fiap.Disrupt.Web.StaticWebAssets.xml
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.pdb
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.genruntimeconfig.cache
