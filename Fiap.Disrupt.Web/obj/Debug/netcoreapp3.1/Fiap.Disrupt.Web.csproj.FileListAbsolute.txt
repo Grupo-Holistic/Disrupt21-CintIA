@@ -282,8 +282,6 @@ E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csprojAssemblyReference.cache
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.AssemblyInfoInputs.cache
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.AssemblyInfo.cs
-E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csproj.CoreCompileInputs.cache
-E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.MvcApplicationPartsAssemblyInfo.cache
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorAssemblyInfo.cache
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.RazorAssemblyInfo.cs
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.TagHelpers.input.cache
@@ -310,3 +308,12 @@ E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.dll
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.pdb
 E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.genruntimeconfig.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\IBM.Cloud.SDK.Core.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\IBM.Watson.Assistant.v2.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\IBM.Watson.Common.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\JsonSubTypes.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\JWT.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.csproj.CoreCompileInputs.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Fiap.Disrupt.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Documentos\FIAP\2_ano\2_semestre\_Disrupt21\Entrega_02\Fiap.Disrupt.Web\Fiap.Disrupt.Web\obj\Debug\netcoreapp3.1\Razor\Views\Watson\Index.cshtml.g.cs
