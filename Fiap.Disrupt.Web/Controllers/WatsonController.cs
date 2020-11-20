@@ -17,7 +17,7 @@ namespace Fiap.Disrupt.Web.Controllers
                         return View();
         }
 
-        public IActionResult Watson()
+        public IActionResult Watson(String pergunta)
         {
             IamAuthenticator authenticator = new IamAuthenticator(apikey: "neRUCd0_7lv6rHlOUPvGef_OTuoelnTuWH5oFCUxlSxg");
 
@@ -28,7 +28,8 @@ namespace Fiap.Disrupt.Web.Controllers
                 assistantId: "841b4a8c-0edb-4486-89af-d6d717775752",
                 input: new MessageInputStateless()
                 {
-                    Text = "Boa noite"
+                    
+                    Text = pergunta
                 }
                 );
 
@@ -36,7 +37,9 @@ namespace Fiap.Disrupt.Web.Controllers
             var generic = response.RootElement;
             var output = generic.GetProperty("output").GetProperty("generic")[0].GetProperty("text");
 
-            return Content(output.GetString());
+            ViewBag.Resposta = output.GetString();
+
+            return View();
         }
     }
 }

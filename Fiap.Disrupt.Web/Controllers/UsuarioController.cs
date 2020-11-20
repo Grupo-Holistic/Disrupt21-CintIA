@@ -73,7 +73,7 @@ namespace Fiap.Disrupt.Web.Controllers
             if (login != null)
             {
                 
-                return RedirectToAction("Watson", "Usuario");
+                return RedirectToAction("Watson", "Watson");
 
             }
             else

@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Watson";
+}
+
+<div class="container text-center">
+
+
+    <img src="~/img/cint.ia.png" class="img-fluid" width="100" height="auto" />
+</div>
+
+<h1 class="text-center mt-3">Olá Usuario</h1>
+
+<div class="container border-info" style="border-color: white; border-style:dotted;">
+    <h5 asp-action="Watson" class="text-success text-xl-left mt-2">@ViewBag.Resposta</h5>
+</div>
+<form asp-action="watson">
+    <div class="container border-danger mt-3">
+        <input type="text" name="pergunta" />
+        <input type="submit" value="Enviar" class="btn btn-info"/>
+    </div>
+</form>
+
+

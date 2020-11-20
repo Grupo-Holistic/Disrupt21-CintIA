@@ -9529,11 +9529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documentos\\FIAP\\2_ano\\2_semestre\\_Disrupt21\\Entrega_02\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\OneDrive\\Área de Trabalho\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web.csproj",
       "projectName": "Fiap.Disrupt.Web",
-      "projectPath": "E:\\Documentos\\FIAP\\2_ano\\2_semestre\\_Disrupt21\\Entrega_02\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web.csproj",
+      "projectPath": "C:\\Users\\Gabriel\\OneDrive\\Área de Trabalho\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\FIAP\\2_ano\\2_semestre\\_Disrupt21\\Entrega_02\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\OneDrive\\Área de Trabalho\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
