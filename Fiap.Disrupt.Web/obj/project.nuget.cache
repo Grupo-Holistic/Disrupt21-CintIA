@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xQIEXJS0NNg7kHnLx3Ux0fMrdneJXaDwbibuULFGlByYKh5uh1tHVkDGI4giNSTUcTunH4XiInQZlXSL/dpaA==",
+  "dgSpecHash": "4Gj0Hp1230LEwmCNr4DyrCCF9ktFYek387hll04yF3rLTIMLCmJyDUdixb7M8+TYQmREK6MMfjHudzVQfUa/gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\OneDrive\\Área de Trabalho\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web.csproj",
+  "projectFilePath": "E:\\Documentos\\FIAP\\2_ano\\2_semestre\\_Disrupt21\\Entrega_02\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web\\Fiap.Disrupt.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\ibm.cloud.sdk.core\\1.1.0\\ibm.cloud.sdk.core.1.1.0.nupkg.sha512",

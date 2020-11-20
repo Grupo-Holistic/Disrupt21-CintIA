@@ -33,11 +33,17 @@ namespace Fiap.Disrupt.Web.Controllers
                 }
                 );
 
-            var response = JsonDocument.Parse(result.Response);
-            var generic = response.RootElement;
-            var output = generic.GetProperty("output").GetProperty("generic")[0].GetProperty("text");
-
-            ViewBag.Resposta = output.GetString();
+            try
+            {
+                var response = JsonDocument.Parse(result.Response);
+                var generic = response.RootElement;
+                var output = generic.GetProperty("output").GetProperty("generic")[0].GetProperty("text");
+                ViewBag.Resposta = output.GetString();
+            }
+            catch (Exception)
+            {
+                throw new Exception("Pergunta não existente.");
+            }       
 
             return View();
         }
